@@ -1,0 +1,28 @@
+###### sampler settings
+seed: 4242
+outputBaseName: "outputdata/toymodel"
+thinning: 10
+centeringSamplesPerTask: 10000
+bayesianSamplesPerTask: 10000
+
+###### experimental data
+averageError: 0.0076875
+
+###### Limit search space by setting a max allowed flux
+maxFlux: 150.00
+
+# Input files
+# File 1: Metabolic model (.sbml format)
+modelFile: "../notebooks/input_data/fig3toyModel.xml"
+
+# File 2: Extracellular exchange and flux bounds (.csv format)
+fluxBoundsFile: "../notebooks/input_data/fig3toyFluxBounds.csv"
+
+# File 3: Atom transitions for each reaction (.txt format)
+transitionsFile: "../notebooks/input_data/fig3toyTransitions.txt"
+
+# File 4: Mass distribution experimental data (.tab format)
+mdvFile: "../notebooks/input_data/fig3toyMassDistribution.tab"
+
+# File 5: substrate labeling dict
+substrateLabelingDict: "substrateLabelingDict.py"

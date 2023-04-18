@@ -1,0 +1,630 @@
+12PPDRtex	12ppd__R_e <==> 12ppd__R_p	abc : abc
+12PPDRtpp	12ppd__R_p <==> 12ppd__R_c	abc : abc
+3HAD100	3hdecACP_c --> tdec2eACP_c	abcdefghij : abcdefghij
+3HAD120	3hddecACP_c --> tddec2eACP_c	abcdefghijkl : abcdefghijkl
+3HAD121	3hcddec5eACP_c --> t3c5ddeceACP_c	abcdefghijkl : abcdefghijkl
+3HAD140	3hmrsACP_c --> tmrs2eACP_c	abcdefghijklmn : abcdefghijklmn
+3HAD141	3hcmrs7eACP_c --> t3c7mrseACP_c	abcdefghijklmn : abcdefghijklmn
+3HAD160	3hpalmACP_c --> tpalm2eACP_c	abcdefghijklmnop : abcdefghijklmnop
+3HAD161	3hcpalm9eACP_c --> t3c9palmeACP_c	abcdefghijklmnop : abcdefghijklmnop
+3HAD40	3haACP_c --> but2eACP_c	abcd : abcd
+3HAD60	3hhexACP_c --> thex2eACP_c	abcdef : abcdef
+3HAD80	3hoctACP_c --> toct2eACP_c	abcdefgh : abcdefgh
+3OAR100	3odecACP_c <==> 3hdecACP_c	abcdefghij : abcdefghij
+3OAR120	3oddecACP_c <==> 3hddecACP_c	abcdefghijkl : abcdefghijkl
+3OAR121	3ocddec5eACP_c --> 3hcddec5eACP_c	abcdefghijkl : abcdefghijkl
+3OAR140	3omrsACP_c <==> 3hmrsACP_c	abcdefghijklmn : abcdefghijklmn
+3OAR141	3ocmrs7eACP_c --> 3hcmrs7eACP_c	abcdefghijklmn : abcdefghijklmn
+3OAR160	3opalmACP_c <==> 3hpalmACP_c	abcdefghijklmnop : abcdefghijklmnop
+3OAR161	3ocpalm9eACP_c --> 3hcpalm9eACP_c	abcdefghijklmnop : abcdefghijklmnop
+3OAR40	actACP_c <==> 3haACP_c	abcd : abcd
+3OAR60	3ohexACP_c <==> 3hhexACP_c	abcdef : abcdef
+3OAR80	3ooctACP_c <==> 3hoctACP_c	abcdefgh : abcdefgh
+3OAS100	malACP_c + ocACP_c --> 3odecACP_c + co2_c	abc + defghijk : abdefghijk + c
+3OAS120	dcaACP_c + malACP_c --> 3oddecACP_c + co2_c	abcdefghij + klm : klabcdefghij + m
+3OAS121	cdec3eACP_c + malACP_c --> 3ocddec5eACP_c + co2_c	abcdefghij + klm : klabcdefghij + m
+3OAS140	ddcaACP_c + malACP_c --> 3omrsACP_c + co2_c	abcdefghijkl + mno : mnabcdefghijkl + o
+3OAS141	cddec5eACP_c + malACP_c --> 3ocmrs7eACP_c + co2_c	abcdefghijkl + mno : mnabcdefghijkl + o
+3OAS160	malACP_c + myrsACP_c --> 3opalmACP_c + co2_c	abc + defghijklmnopq : abdefghijklmnopq + c
+3OAS161	malACP_c + tdeACP_c --> 3ocpalm9eACP_c + co2_c	abc + defghijklmnopq : abdefghijklmnopq + c
+3OAS60	butACP_c + malACP_c --> 3ohexACP_c + co2_c	abcd + efg : efabcd + g
+3OAS80	hexACP_c + malACP_c --> 3ooctACP_c + co2_c	abcdef + ghi : ghabcdef + i
+A5PISO	ru5p__D_c <==> ara5p_c	abcde : abcde
+AACTOOR	aact_c --> mthgxl_c	abc : abc
+ABTA	4abut_c + akg_c --> glu__L_c + sucsal_c	abcd + efghi : efghi + abcd
+ABUTD	4abutn_c --> 4abut_c	abcd : abcd
+ABUTt2pp	4abut_p --> 4abut_c	abcd : abcd
+ABUTtex	4abut_e <==> 4abut_p	abcd : abcd
+ACALD	acald_c <==> accoa_c	ab : ab
+ACCOAC	accoa_c + hco3_c + atp_c --> adp_c + malcoa_c	ab + c + defghijklm : defghijklm + abc
+ACGK	acglu_c + atp_c --> adp_c + acg5p_c	abcdefg + hijklmnopq : hijklmnopq + abcdefg
+ACGS	accoa_c + glu__L_c --> acglu_c	ab + cdefg : abcdefg
+ACHBS	2obut_c + pyr_c --> 2ahbut_c + co2_c	abcd + efg : abcdfg + e
+ACKr	ac_c + atp_c <==> adp_c + actp_c	ab + cdefghijkl : cdefghijkl + ab
+ACLS	pyr_c + pyr_c --> alac__S_c + co2_c	abc + def : abcef + d
+ACOATA	accoa_c <==> acACP_c	ab : ab
+ACODA	acorn_c --> ac_c + orn_c	abcdefg : ab + cdefg
+ACONTa	cit_c <==> acon_C_c	abcdef : abcdef
+ACONTb	acon_C_c <==> icit_c	abcdef : edcbaf
+ACOTA	acorn_c + akg_c <==> acg5sa_c + glu__L_c	abcdefg + hijkl : abcdefg + hijkl
+ACSERtex	acser_e <==> acser_p	abcde : abcde
+ACSERtpp	acser_c --> acser_p	abcde : abcde
+ACt2rpp	ac_p <==> ac_c	ab : ab
+ACt4pp	ac_p --> ac_c	ab : ab
+ACtex	ac_e <==> ac_p	ab : ab
+ADCL	4adcho_c --> 4abz_c + pyr_c	abcdefghij : abcdefg + jih
+ADCS	chor_c + gln__L_c --> 4adcho_c + glu__L_c	abcdefghij + klmno : abcdefghij + klmno
+ADK1	amp_c + atp_c <==> adp_c + adp_c	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+ADNK1	adn_c + atp_c --> adp_c + amp_c	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+ADNK1	adn_c + atp_c --> adp_c + amp_c	abcdefghij + klmnopqrst : klmnopqrst + abcdefghij
+ADSK	aps_c + atp_c --> adp_c + paps_c	abcdefghij + klmnopqrst : klmnopqrst + abcdefghij
+ADSL1r	dcamp_c <==> amp_c + fum_c	abcdefghijklmn : abcdefghij + klmn
+ADSL1r	dcamp_c <==> amp_c + fum_c	abcdefghijklmn : abcdefghij + nmlk
+ADSL2r	25aics_c <==> aicar_c + fum_c	abcdefghijklm : abcdefghi + jklm
+ADSL2r	25aics_c <==> aicar_c + fum_c	abcdefghijklm : abcdefghi + mlkj
+ADSS	asp__L_c + imp_c + gtp_c --> gdp_c + dcamp_c	abcd + efghijklmn + opqrstuvwx : opqrstuvwx + efghijklmnabcd
+AGMHE	adphep_DD_c --> adphep_LD_c	abcdefghijklmnopq : abcdefghijklmnopq
+AGMT	agm_c --> ptrc_c + urea_c	abcde : bcde + a
+AGMT	agm_c --> ptrc_c + urea_c	abcde : edcb + a
+AGPAT160	1hdecg3p_c + palmACP_c --> pa160_c	abcdefghijklmnopqrs + tuvwxyzABCDEFGHI : abcdefghijklmnopqrstuvwxyzABCDEFGHI
+AGPAT161	1hdec9eg3p_c + hdeACP_c --> pa161_c	abcdefghijklmnopqrs + tuvwxyzABCDEFGHI : abcdefghijklmnopqrstuvwxyzABCDEFGHI
+AGPR	acg5sa_c <==> acg5p_c	abcdefg : abcdefg
+AHCYSNS	ahcys_c --> ade_c + rhcys_c	abcdefghijklmn : jklmn + abcdefghi
+AICART	10fthf_c + aicar_c <==> fprica_c	a + bcdefghij : bcdefghija
+AIRC2	air_c + hco3_c + atp_c --> adp_c + 5caiz_c	abcdefgh + i + jklmnopqrs : jklmnopqrs + abcdefghi
+AIRC3	5aizc_c <==> 5caiz_c	abcdefghi : abcdefghi
+AKGDH	akg_c --> co2_c + succoa_c	abcde : a + bcde
+ALAALAr	ala__D_c + atp_c + ala__D_c <==> adp_c + alaala_c	abc + defghijklm + nop : defghijklm + abcnop
+ALAR	ala__L_c <==> ala__D_c	abc : abc
+ALATA_L	akg_c + ala__L_c <==> glu__L_c + pyr_c	abcde + fgh : abcde + fgh
+ALCD2x	etoh_c <==> acald_c	ab : ab
+ALDD2x	acald_c --> ac_c	ab : ab
+ALR2	mthgxl_c --> acetol_c	abc : abc
+ALR4x	acetol_c --> 12ppd__R_c	abc : abc
+AMPMS2	air_c --> 4ampm_c + for_c + for_c	abcdefgh : acdegh + b + f
+ANPRT	anth_c + prpp_c --> pran_c	abcdefg + hijkl : hijklabcdefg
+ANS	chor_c + gln__L_c --> anth_c + glu__L_c + pyr_c	abcdefghij + klmno : abcdefg + klmno + jih
+AOBUTDs	2aobut_c --> aact_c + co2_c	abcd : bcd + a
+APRAUR	5apru_c --> 5aprbu_c	abcdefghi : abcdefghi
+ARBTNR1	arbtn_fe3_c + arbtn_fe3_c + fadh2_c --> arbtn_c + arbtn_c + fad_c	abcdefghijklmnopqrstuv + wxyzABCDEFGHIJKLMNOPQR + STUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđ : abcdefghijklmnopqrstuv + wxyzABCDEFGHIJKLMNOPQR + STUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđ
+ARBTNabcpp	arbtn_fe3_p + atp_c --> adp_c + arbtn_fe3_c	abcdefghijklmnopqrstuv + wxyzABCDEF : wxyzABCDEF + abcdefghijklmnopqrstuv
+ARBTNexs	arbtn_e --> arbtn_fe3_e	abcdefghijklmnopqrstuv : abcdefghijklmnopqrstuv
+ARBTNtex	arbtn_p --> arbtn_e	abcdefghijklmnopqrstuv : abcdefghijklmnopqrstuv
+ARBTNtonex	arbtn_fe3_e --> arbtn_fe3_p	abcdefghijklmnopqrstuv : abcdefghijklmnopqrstuv
+ARBTNtpp	arbtn_c --> arbtn_p	abcdefghijklmnopqrstuv : abcdefghijklmnopqrstuv
+ARGDC	arg__L_c --> agm_c + co2_c	abcdef : bcdef + a
+ARGORNt7pp	arg__L_p + orn_c <==> arg__L_c + orn_p	abcdef + ghijk : abcdef + ghijk
+ARGSL	argsuc_c <==> arg__L_c + fum_c	abcdefghij : abcdef + ghij
+ARGSL	argsuc_c <==> arg__L_c + fum_c	abcdefghij : abcdef + jihg
+ARGSS	asp__L_c + citr__L_c + atp_c --> amp_c + argsuc_c	abcd + efghij + klmnopqrst : klmnopqrst + efghijabcd
+ARGabcpp	arg__L_p + atp_c --> adp_c + arg__L_c	abcdef + ghijklmnop : ghijklmnop + abcdef
+ARGt3pp	arg__L_c --> arg__L_p	abcdef : abcdef
+ASAD	aspsa_c <==> 4pasp_c	abcd : abcd
+ASNN	asn__L_c --> asp__L_c	abcd : abcd
+ASNS1	asp__L_c + gln__L_c + atp_c --> amp_c + asn__L_c + glu__L_c	abcd + efghi + jklmnopqrs : jklmnopqrs + abcd + efghi
+ASNS2	asp__L_c + atp_c --> amp_c + asn__L_c	abcd + efghijklmn : efghijklmn + abcd
+ASNabcpp	asn__L_p + atp_c --> adp_c + asn__L_c	abcd + efghijklmn : efghijklmn + abcd
+ASNt2rpp	asn__L_p <==> asn__L_c	abcd : abcd
+ASP1DC	asp__L_c --> ala_B_c + co2_c	abcd : dcb + a
+ASPCT	asp__L_c + cbp_c --> cbasp_c	abcd + e : abcde
+ASPK	asp__L_c + atp_c <==> adp_c + 4pasp_c	abcd + efghijklmn : efghijklmn + abcd
+ASPO5	asp__L_c + fum_c --> iasp_c + succ_c	abcd + efgh : dcba + efgh
+ASPO5	asp__L_c + fum_c --> iasp_c + succ_c	abcd + efgh : dcba + hgfe
+ASPO5	asp__L_c + fum_c --> iasp_c + succ_c	abcd + efgh : dcba + hgfe
+ASPO5	asp__L_c + fum_c --> iasp_c + succ_c	abcd + efgh : dcba + efgh
+ASPTA	akg_c + asp__L_c <==> glu__L_c + oaa_c	abcde + fghi : abcde + fghi
+AST	arg__L_c + succoa_c --> sucarg_c	abcdef + ghij : abcdefghij
+ATPM	atp_c --> adp_c	abcdefghij : abcdefghij
+ATPPRT	atp_c + prpp_c --> prbatp_c	abcdefghij + klmno : klmnoabcdefghij
+ATPS4rpp	adp_c <==> atp_c	abcdefghij : abcdefghij
+BPNT	pap_c --> amp_c	abcdefghij : abcdefghij
+CBMKr	co2_c + atp_c <==> adp_c + cbp_c	a + bcdefghijk : bcdefghijk + a
+CBPS	gln__L_c + hco3_c + atp_c + atp_c --> adp_c + adp_c + cbp_c + glu__L_c	abcde + f + ghijklmnop + qrstuvwxyz : ghijklmnop + qrstuvwxyz + f + abcde
+CDPMEK	4c2me_c + atp_c --> 2p4c2me_c + adp_c	abcdefghijklmn + opqrstuvwx : abcdefghijklmn + opqrstuvwx
+CHORM	chor_c --> pphn_c	abcdefghij : jihbcdefga
+CHORS	3psme_c --> chor_c	abcdefghij : abcdefghij
+CHRPL	chor_c --> 4hbz_c + pyr_c	abcdefghij : abcdefg + jih
+CITL	cit_c --> ac_c + oaa_c	abcdef : ab + fcde
+CO2tex	co2_e <==> co2_p	a : a
+CO2tpp	co2_p <==> co2_c	a : a
+COLIPAabcpp	atp_c + colipa_c --> adp_c + colipa_p	abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄ : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄ
+COLIPAtex	colipa_p --> colipa_e	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹź : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹź
+CPPPGO	cpppg3_c --> co2_c + co2_c + pppg9_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJ : j + s + abcdefghiklmnopqrtuvwxyzABCDEFGHIJ
+CRNDabcpp	atp_c + crn__D_p --> adp_c + crn__D_c	abcdefghij + klmnopq : abcdefghij + klmnopq
+CRNDt2rpp	crn__D_p <==> crn__D_c	abcdefg : abcdefg
+CRNabcpp	atp_c + crn_p --> adp_c + crn_c	abcdefghij + klmnopq : abcdefghij + klmnopq
+CRNt2rpp	crn_p <==> crn_c	abcdefg : abcdefg
+CS	accoa_c + oaa_c --> cit_c	ab + cdef : abdefc
+CTBTabcpp	atp_c + ctbt_p --> adp_c + ctbt_c	abcdefghij + klmnopq : abcdefghij + klmnopq
+CTBTt2rpp	ctbt_p <==> ctbt_c	abcdefg : abcdefg
+CTPS2	gln__L_c + utp_c + atp_c --> adp_c + ctp_c + glu__L_c	abcde + fghijklmn + opqrstuvwx : opqrstuvwx + fghijklmn + abcde
+CYSS	acser_c --> ac_c + cys__L_c	abcde : ab + cde
+CYSTL	cyst__L_c --> hcys__L_c + pyr_c	abcdefg : abcd + gfe
+CYSabc2pp	atp_c + cys__L_c --> adp_c + cys__L_p	abcdefghij + klm : abcdefghij + klm
+CYSabcpp	atp_c + cys__L_p --> adp_c + cys__L_c	abcdefghij + klm : abcdefghij + klm
+CYStex	cys__L_e <==> cys__L_p	abc : abc
+CYStpp	cys__L_c --> cys__L_p	abc : abc
+CYTDt2pp_copy1	cytd_p --> cytd_c	abcdefghi : abcdefghi
+CYTDt2pp_copy2	cytd_p <==> cytd_c	abcdefghi : abcdefghi
+CYTK1	atp_c + cmp_c <==> adp_c + cdp_c	abcdefghij + klmnopqrs : abcdefghij + klmnopqrs
+DADA	dad_2_c --> din_c	abcdefghij : abcdefghij
+DALAt2pp	ala__D_p --> ala__D_c	abc : abc
+DALAtex	ala__D_e <==> ala__D_p	abc : abc
+DAPDC	26dap__M_c --> co2_c + lys__L_c	abcdefg : g + abcdef
+DAPE	26dap_LL_c <==> 26dap__M_c	abcdefg : abcdefg
+DAPE	26dap_LL_c <==> 26dap__M_c	abcdefg : gfedcba
+DASYN160	ctp_c + pa160_c --> cdpdhdecg_c	abcdefghi + jklmnopqrstuvwxyzABCDEFGHIJKLMNOPQR : jklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRabcdefghi
+DASYN161	ctp_c + pa161_c --> cdpdhdec9eg_c	abcdefghi + jklmnopqrstuvwxyzABCDEFGHIJKLMNOPQR : jklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRabcdefghi
+DB4PS	ru5p__D_c --> db4p_c + for_c	abcde : bcde + a
+DDPA	e4p_c + pep_c --> 2dda7p_c	abcd + efg : efgabcd
+DHAD1	23dhmb_c --> 3mob_c	abcde : abcde
+DHAD2	23dhmp_c --> 3mop_c	abcdef : abcdef
+DHAPT	dha_c + pep_c --> dhap_c + pyr_c	abc + def : abc + def
+DHDPRy	23dhdp_c --> thdp_c	abcdefg : abcdefg
+DHDPS	aspsa_c + pyr_c --> 23dhdp_c	abcd + efg : abcdgfe
+DHFR	dhf_c <==> thf_c	abcdefghijklmnopqrs : abcdefghijklmnopqrs
+DHFS	dhpt_c + glu__L_c + atp_c --> adp_c + dhf_c	abcdefghijklmn + opqrs + tuvwxyzABC : tuvwxyzABC + abcdefghijklmnopqrs
+DHNPA2r	dhnpt_c --> 6hmhpt_c + gcald_c	abcdefghi : cdefghi + ab
+DHORD2	dhor__S_c --> orot_c	abcde : abcde
+DHORD5	dhor__S_c --> orot_c	abcde : abcde
+DHORTS	dhor__S_c <==> cbasp_c	abcde : abcde
+DHPPDA2	25drapp_c --> 5apru_c	abcdefghi : abcdefghi
+DHPS2	4abz_c + 6hmhptpp_c --> dhpt_c	abcdefg + hijklmn : abcdefghijklmn
+DHPTDCs	dhptd_c --> hmfurn_c	abcde : abcde
+DHQS	2dda7p_c --> 3dhq_c	abcdefg : abcdefg
+DHQTi	3dhq_c --> 3dhsk_c	abcdefg : abcdefg
+DMATT	dmpp_c + ipdp_c --> grdp_c	abcde + fghij : abcdefghij
+DMPPS	h2mb4p_c + nadh_c --> dmpp_c + nad_c	abcde + fghijklmnopqrstuvwxyz : abcde + fghijklmnopqrstuvwxyz
+DNMPPA	dhpmp_c --> dhnpt_c	abcdefghi : abcdefghi
+DNTPPA	ahdt_c --> dhpmp_c	abcdefghi : abcdefghi
+DPCOAK	atp_c --> adp_c	abcdefghij : abcdefghij
+DPR	2dhp_c --> pant__R_c	abcdef : abcdef
+DTMPK	atp_c + dtmp_c <==> adp_c + dtdp_c	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+DXPRIi	dxyl5p_c --> 2me4p_c	abcde : abcde
+DXPS	g3p_c + pyr_c --> co2_c + dxyl5p_c	abc + def : d + feabc
+D_LACt2pp	lac__D_p <==> lac__D_c	abc : abc
+D_LACtex	lac__D_e <==> lac__D_p	abc : abc
+E4PD	e4p_c <==> 4per_c	abcd : abcd
+EAR100x	tdec2eACP_c --> dcaACP_c	abcdefghij : abcdefghij
+EAR100y	tdec2eACP_c --> dcaACP_c	abcdefghij : abcdefghij
+EAR120x	nadh_c + tddec2eACP_c --> nad_c + ddcaACP_c	abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQR : abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQR
+EAR120y	tddec2eACP_c --> ddcaACP_c	abcdefghijkl : abcdefghijkl
+EAR121x	nadh_c + t3c5ddeceACP_c --> nad_c + cddec5eACP_c	abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQR : abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQR
+EAR121y	t3c5ddeceACP_c --> cddec5eACP_c	abcdefghijkl : abcdefghijkl
+EAR140x	nadh_c + tmrs2eACP_c --> nad_c + myrsACP_c	abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQRST : abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQRST
+EAR140y	tmrs2eACP_c --> myrsACP_c	abcdefghijklmn : abcdefghijklmn
+EAR141x	nadh_c + t3c7mrseACP_c --> nad_c + tdeACP_c	abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQRST : abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQRST
+EAR141y	t3c7mrseACP_c --> tdeACP_c	abcdefghijklmn : abcdefghijklmn
+EAR160x	nadh_c + tpalm2eACP_c --> nad_c + palmACP_c	abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQRSTUV : abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQRSTUV
+EAR160y	tpalm2eACP_c --> palmACP_c	abcdefghijklmnop : abcdefghijklmnop
+EAR161x	nadh_c + t3c9palmeACP_c --> nad_c + hdeACP_c	abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQRSTUV : abcdefghijklmnopqrstu + vwxyzABCDEFGHIJKLMNOPQRSTUV
+EAR161y	t3c9palmeACP_c --> hdeACP_c	abcdefghijklmnop : abcdefghijklmnop
+EAR40x	but2eACP_c + nadh_c --> butACP_c + nad_c	abcdefghijklmno + pqrstuvwxyzABCDEFGHIJ : abcdefghijklmno + pqrstuvwxyzABCDEFGHIJ
+EAR40y	but2eACP_c --> butACP_c	abcd : abcd
+EAR60x	thex2eACP_c + nadh_c --> hexACP_c + nad_c	abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKL : abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKL
+EAR60y	thex2eACP_c --> hexACP_c	abcdef : abcdef
+EAR80x	toct2eACP_c + nadh_c --> ocACP_c + nad_c	abcdefghijklmnopqrs + tuvwxyzABCDEFGHIJKLMN : abcdefghijklmnopqrs + tuvwxyzABCDEFGHIJKLMN
+EAR80y	toct2eACP_c --> ocACP_c	abcdefgh : abcdefgh
+EDA	2ddg6p_c --> g3p_c + pyr_c	abcdef : def + abc
+EDD	6pgc_c --> 2ddg6p_c	abcdef : abcdef
+EDTXS1	ddcaACP_c + kdo2lipid4_c --> kdo2lipid4L_c	abcdefghijkl + mnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪ : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪ
+EDTXS2	kdo2lipid4L_c + myrsACP_c --> lipa_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪ + īĬĭĮįİıĲĳĴĵĶķĸ : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸ
+ENO	2pg_c <==> pep_c	abc : abc
+ETOHt2rpp	etoh_p <==> etoh_c	ab : ab
+ETOHtex	etoh_e <==> etoh_p	ab : ab
+BIOMASS_Ec_iAF1260_core_59p81M	atp_c --> adp_c	abcdefghij : abcdefghij
+F6PA	f6p_c <==> dha_c + g3p_c	abcdef : cba + def
+FADRx	fad_c --> fadh2_c	abcdefghijklmnopqrstuvwxyzA : abcdefghijklmnopqrstuvwxyzA
+FADRx2	fad_c --> fadh2_c	abcdefghijklmnopqrstuvwxyzA : abcdefghijklmnopqrstuvwxyzA
+FBA	fdp_c <==> dhap_c + g3p_c	abcdef : cba + def
+FBP	fdp_c --> f6p_c	abcdef : abcdef
+FCLT	ppp9_c --> pheme_c	abcdefghijklmnopqrstuvwxyzABCDEFGH : abcdefghijklmnopqrstuvwxyzABCDEFGH
+FE3abcpp	atp_c --> adp_c	abcdefghij : abcdefghij
+FMNAT	atp_c + fmn_c --> fad_c	abcdefghij + klmnopqrstuvwxyzA : abcdefghijklmnopqrstuvwxyzA
+FORt2pp	for_p --> for_c	a : a
+FORtppi	for_c --> for_p	a : a
+FTHFD	10fthf_c --> for_c	a : a
+FUM	fum_c <==> mal__L_c	abcd : abcd
+FUM	fum_c <==> mal__L_c	abcd : dcba
+FUMt2_2pp	fum_p --> fum_c	abcd : abcd
+FUMt2_2pp	fum_p --> fum_c	abcd : dcba
+FUMt2_3pp	fum_p --> fum_c	abcd : abcd
+FUMt2_3pp	fum_p --> fum_c	abcd : dcba
+FUMtex	fum_e <==> fum_p	abcd : abcd
+G1PACT	accoa_c + gam1p_c --> acgam1p_c	ab + cdefgh : abcdefgh
+G1PTT	dttp_c + g1p_c --> dtdpglu_c	abcdefghij + klmnop : abcdefghijklmnop
+G1SAT	glu1sa_c <==> 5aop_c	abcde : abcde
+G3PAT160	glyc3p_c + palmACP_c --> 1hdecg3p_c	abc + defghijklmnopqrs : abcdefghijklmnopqrs
+G3PAT161	glyc3p_c + hdeACP_c --> 1hdec9eg3p_c	abc + defghijklmnopqrs : abcdefghijklmnopqrs
+G3PD2	glyc3p_c <==> dhap_c	abc : abc
+G3PT	glyc3p_c --> glyc_c	abc : abc
+G5SADs	glu5sa_c --> 1pyr5c_c	abcde : abcde
+G5SD	glu5p_c --> glu5sa_c	abcde : abcde
+G6PDH2r	g6p_c <==> 6pgl_c	abcdef : abcdef
+G6PP	g6p_c --> glc__D_c	abcdef : abcdef
+GALT1	gicolipa_c + udpg_c --> gagicolipa_c + udp_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠš + ŢţŤťŦŧŨũŪūŬŭŮůŰ : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧ + ŨũŪūŬŭŮůŰ
+GALUi	g1p_c + utp_c --> udpg_c	abcdef + ghijklmno : abcdefghijklmno
+GAPD	g3p_c <==> 13dpg_c	abc : abc
+GARFT	10fthf_c + gar_c <==> fgam_c	a + bcdefgh : bcdefgha
+GART	for_c + gar_c + atp_c --> fgam_c + adp_c	a + bcdefgh + ijklmnopqr : bcdefgha + ijklmnopqr
+GCALDD	gcald_c --> glyclt_c	ab : ab
+GF6PTA	f6p_c + gln__L_c --> gam6p_c + glu__L_c	abcdef + ghijk : abcdef + ghijk
+GGGABADr	ggbutal_c <==> gg4abut_c	abcdefghi : abcdefghi
+GGGABAH	gg4abut_c --> 4abut_c + glu__L_c	abcdefghi : abcd + efghi
+GGPTRCO	ggptrc_c --> ggbutal_c	abcdefghi : abcdefghi
+GGPTRCS	glu__L_c + ptrc_c + atp_c --> adp_c + ggptrc_c	abcde + fghi + jklmnopqrs : jklmnopqrs + fghiabcde
+GGPTRCS	glu__L_c + ptrc_c + atp_c --> adp_c + ggptrc_c	abcde + fghi + jklmnopqrs : jklmnopqrs + ihgfabcde
+GHMT2r	ser__L_c <==> gly_c + mlthf_c	abc : ab + c
+GK1	atp_c + gmp_c <==> adp_c + gdp_c	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+GLCDpp	glc__D_p + q8_c --> glcn_p + q8h2_c	abcdef + ghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀā : abcdef + ghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀā
+GLCNtex	glcn_e <==> glcn_p	abcdef : abcdef
+GLCTR1	icolipa_c + udpg_c --> gicolipa_c + udp_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚś + ŜŝŞşŠšŢţŤťŦŧŨũŪ : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠš + ŢţŤťŦŧŨũŪ
+GLCTR2	gagicolipa_c + udpg_c --> ggagicolipa_c + udp_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧ + ŨũŪūŬŭŮůŰűŲųŴŵŶ : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭ + ŮůŰűŲųŴŵŶ
+GLCTR3	ggagicolipa_c + udpg_c --> gggagicolipa_c + udp_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭ + ŮůŰűŲųŴŵŶŷŸŹźŻż : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲų + ŴŵŶŷŸŹźŻż
+GLCabcpp	atp_c + glc__D_p --> adp_c + glc__D_c	abcdefghij + klmnop : abcdefghij + klmnop
+GLCptspp	glc__D_p + pep_c --> g6p_c + pyr_c	abcdef + ghi : abcdef + ghi
+GLCt2pp	glc__D_p --> glc__D_c	abcdef : abcdef
+GLCtex_copy2	glc__D_e --> glc__D_p	abcdef : abcdef
+GLNS	glu__L_c + atp_c --> adp_c + gln__L_c	abcde + fghijklmno : fghijklmno + abcde
+GLU5K	glu__L_c + atp_c --> adp_c + glu5p_c	abcde + fghijklmno : fghijklmno + abcde
+GLUABUTt7pp	4abut_c + glu__L_p <==> 4abut_p + glu__L_c	abcd + efghi : abcd + efghi
+GLUDC	glu__L_c --> 4abut_c + co2_c	abcde : edcb + a
+GLUDy	glu__L_c <==> akg_c	abcde : abcde
+GLUPRT	gln__L_c + prpp_c --> glu__L_c + pram_c	abcde + fghij : abcde + fghij
+GLUR	glu__D_c <==> glu__L_c	abcde : abcde
+GLUSy	akg_c + gln__L_c --> glu__L_c + glu__L_c	abcde + fghij : abcde + fghij
+GLUTRR	glutrna_c --> glu1sa_c	abcde : abcde
+GLUTRS	glu__L_c + atp_c --> amp_c + glutrna_c	abcde + fghijklmno : fghijklmno + abcde
+GLUabcpp	atp_c + glu__L_p --> adp_c + glu__L_c	abcdefghij + klmno : abcdefghij + klmno
+GLUt2rpp	glu__L_p <==> glu__L_c	abcde : abcde
+GLUt4pp	glu__L_p --> glu__L_c	abcde : abcde
+GLUtex	glu__L_e <==> glu__L_p	abcde : abcde
+GLXCL	glx_c + glx_c --> 2h3oppan_c + co2_c	ab + cd : dab + c
+GLYAT	accoa_c + gly_c <==> 2aobut_c	ab + cd : cdab
+GLYCDx	glyc_c --> dha_c	abc : abc
+GLYCK	glyc__R_c + atp_c --> adp_c + 3pg_c	abc + defghijklm : defghijklm + abc
+GLYCK2	glyc__R_c + atp_c --> adp_c + 2pg_c	abc + defghijklm : defghijklm + abc
+GLYCL	gly_c --> co2_c + mlthf_c	ab : a + b
+GLYCLTt2rpp	glyclt_p <==> glyclt_c	ab : ab
+GLYCLTtex	glyclt_e <==> glyclt_p	ab : ab
+GLYCTO2	glyclt_c --> glx_c	ab : ab
+GLYCTO3	glyclt_c --> glx_c	ab : ab
+GLYOX	lgt__S_c --> gthrd_c + lac__D_c	abcdefghijklm : abcdefghij + klm
+GLYOX3	mthgxl_c --> lac__D_c	abc : abc
+GMHEPAT	atp_c + gmhep1p_c --> adphep_DD_c	abcdefghij + klmnopq : abcdefghijklmnopq
+GMHEPK	atp_c + gmhep7p_c --> adp_c + gmhep17bp_c	abcdefghij + klmnopq : abcdefghij + klmnopq
+GMHEPPA	gmhep17bp_c --> gmhep1p_c	abcdefg : abcdefg
+GMPR	gmp_c --> imp_c	abcdefghij : abcdefghij
+GMPS2	gln__L_c + xmp_c + atp_c --> amp_c + glu__L_c + gmp_c	abcde + fghijklmno + pqrstuvwxy : pqrstuvwxy + abcde + fghijklmno
+GND	6pgc_c --> co2_c + ru5p__D_c	abcdef : a + bcdef
+GRTT	grdp_c + ipdp_c --> frdp_c	abcdefghij + klmno : abcdefghijklmno
+GTHRDabc2pp	atp_c + gthrd_c --> adp_c + gthrd_p	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+GTHRDabcpp	atp_c + gthrd_p --> adp_c + gthrd_c	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+GTPCI	gtp_c --> ahdt_c + for_c	abcdefghij : abcdeghij + f
+GTPCII2	gtp_c --> 25drapp_c + for_c	abcdefghij : abcdeghij + f
+GUAt2pp	gua_p --> gua_c	abcde : abcde
+GUAtpp	gua_p <==> gua_c	abcde : abcde
+HBZOPT	4hbz_c + octdp_c --> 3ophb_c	abcdefg + hijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU
+HCO3E	co2_c <==> hco3_c	a : a
+HCYSMT	amet_c + hcys__L_c --> ahcys_c + met__L_c	abcdefghijklmno + pqrs : abcdfghijklmno + pqrse
+HEPK1	atp_c + hhlipa_c --> adp_c + phhlipa_c	abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐ : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐ
+HEPK2	atp_c + hphhlipa_c --> adp_c + phphhlipa_c	abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗ : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗ
+HEPT1	adphep_LD_c + lipa_c --> adp_c + hlipa_c	abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉ : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉ
+HEPT2	adphep_LD_c + hlipa_c --> adp_c + hhlipa_c	abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐ : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐ
+HEPT3	adphep_LD_c + phhlipa_c --> adp_c + hphhlipa_c	abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗ : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗ
+HEPT4	adphep_LD_c + gggagicolipa_c --> adp_c + colipa_c	abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄ : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄ
+HEX1	glc__D_c + atp_c --> adp_c + g6p_c	abcdef + ghijklmnop : ghijklmnop + abcdef
+HISTD	histd_c --> his__L_c	abcdef : abcdef
+HISTP	hisp_c --> histd_c	abcdef : abcdef
+HISabcpp	atp_c + his__L_p --> adp_c + his__L_c	abcdefghij + klmnop : abcdefghij + klmnop
+HISt2rpp	his__L_p <==> his__L_c	abcdef : abcdef
+HMBS	ppbng_c + ppbng_c + ppbng_c + ppbng_c --> hmbil_c	abcdefghij + klmnopqrst + uvwxyzABCD + EFGHIJKLMN : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN
+HPPK2	6hmhpt_c + atp_c --> 6hmhptpp_c + amp_c	abcdefg + hijklmnopq : abcdefg + hijklmnopq
+HSDy	hom__L_c <==> aspsa_c	abcd : abcd
+HSK	hom__L_c + atp_c --> adp_c + phom_c	abcd + efghijklmn : efghijklmn + abcd
+HSST	hom__L_c + succoa_c --> suchms_c	abcd + efgh : abcdefgh
+HSTPT	glu__L_c + imacp_c --> akg_c + hisp_c	abcde + fghijk : abcde + fghijk
+HXPRT	hxan_c + prpp_c --> imp_c	abcde + fghij : fghijabcde
+ICDHyr	icit_c <==> akg_c + co2_c	abcdef : abcde + f
+ICL	icit_c --> glx_c + succ_c	abcdef : ab + fcde
+ICL	icit_c --> glx_c + succ_c	abcdef : ab + edcf
+IG3PS	gln__L_c + prlp_c --> eig3p_c + aicar_c + glu__L_c	abcde + fghijklmnopqrst : fghijt + klmnopqrs + abcde
+IGPDH	eig3p_c --> imacp_c	abcdef : abcdef
+IGPS	2cpr5p_c --> 3ig3p_c + co2_c	abcdefghijkl : abcdeghijkl + f
+ILETA	akg_c + ile__L_c <==> 3mop_c + glu__L_c	abcde + fghijk : fghijk + abcde
+ILEabcpp	atp_c + ile__L_p --> adp_c + ile__L_c	abcdefghij + klmnop : abcdefghij + klmnop
+ILEt2rpp	ile__L_p <==> ile__L_c	abcdef : abcdef
+ILEtex	ile__L_e <==> ile__L_p	abcdef : abcdef
+IMPC	imp_c <==> fprica_c	abcdefghij : abcdefghij
+IMPD	imp_c --> xmp_c	abcdefghij : abcdefghij
+INDOLEt2pp	indole_c --> indole_p	abcdefgh : abcdefgh
+INDOLEt2rpp	indole_p <==> indole_c	abcdefgh : abcdefgh
+INSt2pp_copy1	ins_p --> ins_c	abcdefghij : abcdefghij
+INSt2pp_copy2	ins_p <==> ins_c	abcdefghij : abcdefghij
+IPDDI	ipdp_c <==> dmpp_c	abcde : abcde
+IPDPS	h2mb4p_c --> ipdp_c	abcde : abcde
+IPMD	3c2hmp_c --> 3c4mop_c	abcdefg : abcdefg
+IPPMIa	3c2hmp_c <==> 2ippm_c	abcdefg : abcdefg
+IPPMIb	2ippm_c <==> 3c3hmp_c	abcdefg : abcdefg
+IPPS	3mob_c + accoa_c --> 3c3hmp_c	abcde + fg : fgbcdea
+K2L4Aabcpp	atp_c + kdo2lipid4_c --> adp_c + kdo2lipid4_p	abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨ : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨ
+K2L4Atex	kdo2lipid4_p --> kdo2lipid4_e	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞ : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞ
+KARA1	23dhmb_c <==> alac__S_c	abcde : abecd
+KARA2	2ahbut_c <==> 23dhmp_c	abcdef : abecdf
+KAS14	acACP_c + malACP_c --> actACP_c + co2_c	ab + cde : cdab + e
+KAS15	accoa_c + malACP_c --> actACP_c + co2_c	ab + cde : cdab + e
+KDOCT2	ctp_c + kdo_c --> ckdo_c	abcdefghi + jklmnopq : abcdefghijklmnopq
+KDOPP	kdo8p_c --> kdo_c	abcdefgh : abcdefgh
+KDOPS	ara5p_c + pep_c --> kdo8p_c	abcde + fgh : abcdefgh
+LALDO2x	mthgxl_c --> lald__D_c	abc : abc
+LCARR	lald__D_c <==> 12ppd__R_c	abc : abc
+LDH_D	lac__D_c <==> pyr_c	abc : abc
+LDH_D2	lac__D_c --> pyr_c	abc : abc
+LEUTAi	4mop_c + glu__L_c --> akg_c + leu__L_c	abcdef + ghijk : ghijk + abcdef
+LEUabcpp	atp_c + leu__L_p --> adp_c + leu__L_c	abcdefghij + klmnop : abcdefghij + klmnop
+LEUt2rpp	leu__L_p <==> leu__L_c	abcdef : abcdef
+LEUtex	leu__L_e <==> leu__L_p	abcdef : abcdef
+LGTHL	gthrd_c + mthgxl_c --> lgt__S_c	abcdefghij + klm : abcdefghijklm
+LPADSS	lipidX_c + u23ga_c --> lipidAds_c + udp_c	abcdefghijklmnopqrstuvwxyzABCDEFGH + IJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖė : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎ + ďĐđĒēĔĕĖė
+LYSabcpp	atp_c + lys__L_p --> adp_c + lys__L_c	abcdefghij + klmnop : abcdefghij + klmnop
+LYSt2pp	lys__L_p --> lys__L_c	abcdef : abcdef
+LYSt3pp	lys__L_c --> lys__L_p	abcdef : abcdef
+MALS	accoa_c + glx_c --> mal__L_c	ab + cd : cdba
+MCITD	2mcit_c --> 2mcacn_c	abcdefg : abcdefg
+MCITL2	micit_c <==> pyr_c + succ_c	abcdefg : abg + fcde
+MCITL2	micit_c <==> pyr_c + succ_c	abcdefg : abg + edcf
+MCITS	oaa_c + ppcoa_c --> 2mcit_c	abcd + efg : efbcdag
+MCOATA	malcoa_c <==> malACP_c	abc : abc
+MCTP1App	murein5p5p_p --> ala__D_p + murein5px4p_p	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚ : OPQ + abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚ
+MDH	mal__L_c <==> oaa_c	abcd : abcd
+MDH2	mal__L_c --> oaa_c	abcd : abcd
+MDH3	mal__L_c --> oaa_c	abcd : abcd
+ME1	mal__L_c --> co2_c + pyr_c	abcd : d + abc
+ME2	mal__L_c --> co2_c + pyr_c	abcd : d + abc
+MECDPDH2	2mecdp_c --> h2mb4p_c	abcde : abcde
+MECDPS	2p4c2me_c --> 2mecdp_c + cmp_c	abcdefghijklmn : abcde + fghijklmn
+MEPCT	2me4p_c + ctp_c --> 4c2me_c	abcde + fghijklmn : abcdefghijklmn
+METAT	atp_c + met__L_c --> amet_c	abcdefghij + klmno : klmnoabcdefghij
+METS	5mthf_c + hcys__L_c --> met__L_c	a + bcde : bcdea
+MG2uabcpp	atp_c --> adp_c	abcdefghij : abcdefghij
+MGSA	dhap_c --> mthgxl_c	abc : abc
+MICITDr	2mcacn_c --> micit_c	abcdefg : abcdefg
+MMCD	mmcoa__S_c --> co2_c + ppcoa_c	abcd : a + bcd
+MME	mmcoa__R_c <==> mmcoa__S_c	abcd : abcd
+MMM2	succoa_c --> mmcoa__R_c	abcd : abcd
+MOAT	ckdo_c + lipidA_c --> cmp_c + kdolipid4_c	abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğ : abcdefghi + jklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğ
+MOAT2	ckdo_c + kdolipid4_c --> cmp_c + kdo2lipid4_c	abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħ : abcdefghi + jklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħ
+MOAT3C	ckdo_c + phphhlipa_c --> cmp_c + kphphhlipa_c	abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞ : abcdefghi + jklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞ
+MOBDabcpp	atp_c --> adp_c	abcdefghij : abcdefghij
+MOHMT	3mob_c + mlthf_c --> 2dhp_c	abcde + f : abcdef
+MPTG	uaagmda_c + uaagmda_c --> murein5p5p_p + udcpdp_c + udcpdp_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩ + ĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄƅƆƇƈ : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐő + OPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩ + ŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄƅƆƇƈ
+MTHFC	methf_c <==> 10fthf_c	a : a
+MTHFD	mlthf_c <==> methf_c	a : a
+MTHFR2	mlthf_c --> 5mthf_c	a : a
+NACODA	acg5sa_c --> ac_c + glu5sa_c	abcdefg : ab + cdefg
+NADK	atp_c --> adp_c	abcdefghij : abcdefghij
+NADS1	atp_c --> amp_c	abcdefghij : abcdefghij
+NDPK1	atp_c + gdp_c <==> adp_c + gtp_c	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+NDPK2	atp_c + udp_c <==> adp_c + utp_c	abcdefghij + klmnopqrs : abcdefghij + klmnopqrs
+NDPK3	atp_c + cdp_c <==> adp_c + ctp_c	abcdefghij + klmnopqrs : abcdefghij + klmnopqrs
+NDPK4	atp_c + dtdp_c <==> adp_c + dttp_c	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+NDPK5	atp_c + dgdp_c <==> adp_c + dgtp_c	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+NDPK7	atp_c + dcdp_c <==> adp_c + dctp_c	abcdefghij + klmnopqrs : abcdefghij + klmnopqrs
+NDPK8	atp_c + dadp_c <==> adp_c + datp_c	abcdefghij + klmnopqrst : abcdefghij + klmnopqrst
+NI2abcpp	atp_c --> adp_c	abcdefghij : abcdefghij
+NI2uabcpp	atp_c --> adp_c	abcdefghij : abcdefghij
+NNATr	atp_c + nicrnt_c <==> dnad_c	abcdefghij + klmnopqrstu : abcdefghijklmnopqrstu
+NNDPR	prpp_c + quln_c --> co2_c + nicrnt_c	abcde + fghijkl : f + abcdeghijkl
+OAADC	oaa_c --> co2_c + pyr_c	abcd : d + abc
+OBTFL	2obut_c --> for_c + ppcoa_c	abcd : a + bcd
+OCBT	cbp_c + orn_c <==> citr__L_c	a + bcdef : bcdefa
+OCTDPS	frdp_c + ipdp_c + ipdp_c + ipdp_c + ipdp_c + ipdp_c --> octdp_c	abcdefghijklmno + pqrst + uvwxy + zABCD + EFGHI + JKLMN : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN
+OHPBAT	glu__L_c + ohpb_c <==> akg_c + phthr_c	abcde + fghi : abcde + fghi
+OHPHM	2ohph_c + amet_c --> 2omph_c + ahcys_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRST + UVWXYZÿĀāĂăĄąĆć : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTZ + UVWXYÿĀāĂăĄąĆć
+OMBZLM	2ombzl_c + amet_c --> 2ommbl_c + ahcys_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU + VWXYZÿĀāĂăĄąĆćĈ : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUÿ + VWXYZĀāĂăĄąĆćĈ
+OMCDC	3c4mop_c --> 4mop_c + co2_c	abcdefg : abcdef + g
+OMMBLHX	2ommbl_c --> 2omhmbl_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUV : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUV
+OMPDC	orot5p_c --> co2_c + ump_c	abcdefghij : a + bcdefghij
+OMPHHX	2omph_c --> 2ombzl_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU
+OPHBDC	3ophb_c --> 2oph_c + co2_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU : bcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU + a
+OPHHX	2oph_c --> 2ohph_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRST : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRST
+ORNDC	orn_c --> co2_c + ptrc_c	abcde : a + bcde
+ORNDC	orn_c --> co2_c + ptrc_c	abcde : a + edcb
+ORNabcpp	atp_c + orn_p --> adp_c + orn_c	abcdefghij + klmno : abcdefghij + klmno
+ORPT	orot5p_c <==> orot_c + prpp_c	abcdefghij : fghij + abcde
+P5CR	1pyr5c_c --> pro__L_c	abcde : abcde
+PANTS	ala_B_c + pant__R_c + atp_c --> amp_c + pnto__R_c	abc + defghi + jklmnopqrs : jklmnopqrs + defghiabc
+PAPPT3	udcpp_c + ugmda_c --> uagmda_c + ump_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀā + ĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪ : ĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀā + ĢģĤĥĦħĨĩĪ
+PAPSR	paps_c --> pap_c	abcdefghij : abcdefghij
+PDH	pyr_c --> accoa_c + co2_c	abc : bc + a
+PDX5PO2	pdx5p_c + nad_c --> pydx5p_c + nadh_c	abcdefgh + ijklmnopqrstuvwxyzABC : abcdefgh + ijklmnopqrstuvwxyzABC
+PDX5POi	pdx5p_c --> pydx5p_c	abcdefgh : abcdefgh
+PDX5PS	dxyl5p_c + phthr_c --> co2_c + pdx5p_c	abcde + fghi : f + abcdeghi
+PE160abcpp	atp_c + pe160_c --> adp_c + pe160_p	abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU
+PE161abcpp	atp_c + pe161_c --> adp_c + pe161_p	abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTU
+PERD	4per_c <==> ohpb_c	abcd : abcd
+PFK	f6p_c + atp_c --> adp_c + fdp_c	abcdef + ghijklmnop : ghijklmnop + abcdef
+PGAMT	gam1p_c <==> gam6p_c	abcdef : abcdef
+PGCD	3pg_c --> 3php_c	abc : abc
+PGI	g6p_c <==> f6p_c	abcdef : abcdef
+PGK	3pg_c + atp_c <==> adp_c + 13dpg_c	abc + defghijklm : defghijklm + abc
+PGL	6pgl_c --> 6pgc_c	abcdef : abcdef
+PGM	2pg_c <==> 3pg_c	abc : abc
+PGMT	g1p_c <==> g6p_c	abcdef : abcdef
+PHETA1	akg_c + phe__L_c <==> glu__L_c + phpyr_c	abcde + fghijklmn : abcde + fghijklmn
+PHETA1	akg_c + phe__L_c <==> glu__L_c + phpyr_c	abcde + fghijklmn : abcde + fghinmlkj
+PIuabcpp	atp_c --> adp_c	abcdefghij : abcdefghij
+PMDPHT	5aprbu_c --> 4r5au_c	abcdefghi : abcdefghi
+PMPK	4ampm_c + atp_c --> 2mahmp_c + adp_c	abcdef + ghijklmnop : abcdef + ghijklmnop
+PNTK	atp_c + pnto__R_c --> 4ppan_c + adp_c	abcdefghij + klmnopqrs : klmnopqrs + abcdefghij
+POX	pyr_c --> ac_c + co2_c	abc : bc + a
+PPBNGS	5aop_c + 5aop_c --> ppbng_c	abcde + fghij : abcdejihgf
+PPC	co2_c + pep_c --> oaa_c	a + bcd : bcda
+PPCDC	4ppcys_c --> co2_c + pan4p_c	abcdefghijkl : j + abcdefghikl
+PPCK	oaa_c + atp_c --> adp_c + co2_c + pep_c	abcd + efghijklmn : efghijklmn + d + abc
+PPK2	atp_c <==> adp_c	abcdefghij : abcdefghij
+PPK	atp_c <==> adp_c	abcdefghij : abcdefghij
+PPM	r1p_c <==> r5p_c	abcde : abcde
+PPNCL2	4ppan_c + ctp_c + cys__L_c --> 4ppcys_c + cmp_c	abcdefghi + jklmnopqr + stu : abcdefghistu + jklmnopqr
+PPND	pphn_c --> 34hpp_c + co2_c	abcdefghij : abcdefghi + j
+PPNDH	pphn_c --> co2_c + phpyr_c	abcdefghij : j + abcdefghi
+PPPGO	pppg9_c --> ppp9_c	abcdefghijklmnopqrstuvwxyzABCDEFGH : abcdefghijklmnopqrstuvwxyzABCDEFGH
+PPPGO3	fum_c + pppg9_c --> succ_c + ppp9_c	abcd + efghijklmnopqrstuvwxyzABCDEFGHIJKL : abcd + efghijklmnopqrstuvwxyzABCDEFGHIJKL
+PPS	pyr_c + atp_c --> amp_c + pep_c	abc + defghijklm : defghijklm + abc
+PRAGSr	gly_c + pram_c + atp_c <==> adp_c + gar_c	ab + cdefg + hijklmnopq : hijklmnopq + cdefgab
+PRAIS	fpram_c + atp_c --> adp_c + air_c	abcdefgh + ijklmnopqr : ijklmnopqr + abcdehgf
+PRAIi	pran_c --> 2cpr5p_c	abcdefghijkl : abcdefghijkl
+PRAMPC	prbamp_c --> prfp_c	abcdefghijklmno : abcdefghijklmno
+PRASCSi	5aizc_c + asp__L_c + atp_c --> adp_c + 25aics_c	abcdefghi + jklm + nopqrstuvw : nopqrstuvw + abcdefghijklm
+PRATPP	prbatp_c --> prbamp_c	abcdefghijklmno : abcdefghijklmno
+PRFGS	fgam_c + gln__L_c + atp_c --> adp_c + fpram_c + glu__L_c	abcdefgh + ijklm + nopqrstuvw : nopqrstuvw + abcdefgh + ijklm
+PRMICI	prfp_c <==> prlp_c	abcdefghijklmno : abcdefghijklmno
+PROabcpp	atp_c + pro__L_p --> adp_c + pro__L_c	abcdefghij + klmno : abcdefghij + klmno
+PROt2rpp	pro__L_p <==> pro__L_c	abcde : abcde
+PROt4pp	pro__L_p --> pro__L_c	abcde : abcde
+PRPPS	r5p_c + atp_c <==> amp_c + prpp_c	abcde + fghijklmno : fghijklmno + edcba
+PSCVT	pep_c + skm5p_c <==> 3psme_c	abc + defghij : defghijcba
+PSD160	ps160_c --> co2_c + pe160_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKL : a + bcdefghijklmnopqrstuvwxyzABCDEFGHIJKL
+PSD161	ps161_c --> co2_c + pe161_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKL : a + bcdefghijklmnopqrstuvwxyzABCDEFGHIJKL
+PSERT	3php_c + glu__L_c --> akg_c + pser__L_c	abc + defgh : defgh + abc
+PSP_L	pser__L_c --> ser__L_c	abc : abc
+PSSA160	cdpdhdecg_c + ser__L_c --> cmp_c + ps160_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQR + STU : JKLMNOPQR + STUabcdefghijklmnopqrstuvwxyzABCDEFGHI
+PSSA161	cdpdhdec9eg_c + ser__L_c --> cmp_c + ps161_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQR + STU : JKLMNOPQR + STUabcdefghijklmnopqrstuvwxyzABCDEFGHI
+PTAr	accoa_c <==> actp_c	ab : ab
+PTPATi	atp_c + pan4p_c --> dpcoa_c	abcdefghij + klmnopqrstu : abcdefghijklmnopqrstu
+PTRCORNt7pp	orn_c + ptrc_p <==> orn_p + ptrc_c	abcde + fghi : abcde + fghi
+PTRCORNt7pp	orn_c + ptrc_p <==> orn_p + ptrc_c	abcde + fghi : abcde + ihgf
+PTRCTA	akg_c + ptrc_c --> 4abutn_c + glu__L_c	abcde + fghi : fghi + abcde
+PTRCTA	akg_c + ptrc_c --> 4abutn_c + glu__L_c	abcde + fghi : ihgf + abcde
+PTRCabcpp	atp_c + ptrc_p --> adp_c + ptrc_c	abcdefghij + klmn : abcdefghij + klmn
+PTRCabcpp	atp_c + ptrc_p --> adp_c + ptrc_c	abcdefghij + klmn : abcdefghij + nmlk
+PTRCt2pp	ptrc_p --> ptrc_c	abcd : abcd
+PTRCt2pp	ptrc_p --> ptrc_c	abcd : dcba
+PTRCtex	ptrc_e <==> ptrc_p	abcd : abcd
+PUNP1	adn_c <==> r1p_c + ade_c	abcdefghij : abcde + fghij
+PUNP2	dad_2_c <==> 2dr1p_c + ade_c	abcdefghij : abcde + fghij
+PUNP6	din_c <==> 2dr1p_c + hxan_c	abcdefghij : abcde + fghij
+PYK	pep_c + adp_c --> atp_c + pyr_c	abc + defghijklm : defghijklm + abc
+PYRt2rpp	pyr_p <==> pyr_c	abc : abc
+PYRtex	pyr_e <==> pyr_p	abc : abc
+QULNS	dhap_c + iasp_c --> quln_c	abc + defg : defgabc
+RBFK	atp_c + ribflv_c --> adp_c + fmn_c	abcdefghij + klmnopqrstuvwxyzA : abcdefghij + klmnopqrstuvwxyzA
+RBFSa	4r5au_c + db4p_c --> dmlz_c	abcdefghi + jklm : abcdefghijklm
+RBFSb	dmlz_c + dmlz_c --> 4r5au_c + ribflv_c	abcdefghijklm + nopqrstuvwxyz : abcdefghi + jklmnopqrstuvwxyz
+RHAT1	dtdprmn_c + kphphhlipa_c --> dtdp_c + icolipa_c	abcdefghijklmnop + qrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤť : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤť
+RHCCE	rhcys_c --> dhptd_c + hcys__L_c	abcdefghi : efghi + abcd
+RNDR1	adp_c --> dadp_c	abcdefghij : abcdefghij
+RNDR2	gdp_c --> dgdp_c	abcdefghij : abcdefghij
+RNDR3	cdp_c --> dcdp_c	abcdefghi : abcdefghi
+RNDR4	udp_c --> dudp_c	abcdefghi : abcdefghi
+RNTR1c	atp_c --> datp_c	abcdefghij : abcdefghij
+RPE	ru5p__D_c <==> xu5p__D_c	abcde : abcde
+RPI	r5p_c <==> ru5p__D_c	abcde : abcde
+S7PI	s7p_c --> gmhep7p_c	abcdefg : abcdefg
+SADH	sucarg_c --> co2_c + sucorn_c	abcdefghij : f + abcdeghij
+SADT2	atp_c + gtp_c --> gdp_c + aps_c	abcdefghij + klmnopqrst : klmnopqrst + abcdefghij
+SDPDS	sl26da_c --> 26dap_LL_c + succ_c	abcdefghijk : abcdefg + hijk
+SDPDS	sl26da_c --> 26dap_LL_c + succ_c	abcdefghijk : abcdefg + kjih
+SDPDS	sl26da_c --> 26dap_LL_c + succ_c	abcdefghijk : gfedcba + hijk
+SDPDS	sl26da_c --> 26dap_LL_c + succ_c	abcdefghijk : gfedcba + kjih
+SDPTA	akg_c + sl26da_c <==> glu__L_c + sl2a6o_c	abcde + fghijklmnop : abcde + fghijklmnop
+SERAT	accoa_c + ser__L_c <==> acser_c	ab + cde : abcde
+SERD_L	ser__L_c --> pyr_c	abc : abc
+SERt2rpp	ser__L_p <==> ser__L_c	abc : abc
+SERt4pp	ser__L_p --> ser__L_c	abc : abc
+SERtex	ser__L_e <==> ser__L_p	abc : abc
+SGDS	sucglu_c --> glu__L_c + succ_c	abcdefghi : abcde + fghi
+SGDS	sucglu_c --> glu__L_c + succ_c	abcdefghi : abcde + ihgf
+SGSAD	sucgsa_c --> sucglu_c	abcdefghi : abcdefghi
+SHCHD2	dscl_c --> scl_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOP : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOP
+SHCHF	scl_c --> sheme_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOP : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOP
+SHK3Dr	3dhsk_c <==> skm_c	abcdefg : abcdefg
+SHKK	skm_c + atp_c --> adp_c + skm5p_c	abcdefg + hijklmnopq : hijklmnopq + abcdefg
+SHSL1	cys__L_c + suchms_c --> cyst__L_c + succ_c	abc + defghijk : defgcba + hijk
+SHSL1	cys__L_c + suchms_c --> cyst__L_c + succ_c	abc + defghijk : defgcba + kjih
+SOTA	akg_c + sucorn_c --> glu__L_c + sucgsa_c	abcde + fghijklmn : abcde + fghijklmn
+SSALx	sucsal_c --> succ_c	abcd : abcd
+SSALx	sucsal_c --> succ_c	abcd : dcba
+SSALy	sucsal_c --> succ_c	abcd : abcd
+SSALy	sucsal_c --> succ_c	abcd : dcba
+SUCCt2_3pp	succ_p --> succ_c	abcd : abcd
+SUCCt2_3pp	succ_p --> succ_c	abcd : dcba
+SUCCt3pp	succ_c --> succ_p	abcd : abcd
+SUCCt3pp	succ_c --> succ_p	abcd : dcba
+SUCCtex	succ_e <==> succ_p	abcd : abcd
+SUCDi	succ_c --> fum_c	abcd : abcd
+SUCDi	succ_c --> fum_c	abcd : dcba
+SUCDi	succ_c --> fum_c	abcd : dcba
+SUCDi	succ_c --> fum_c	abcd : abcd
+SUCFUMtpp	fum_p + succ_c <==> fum_c + succ_p	abcd + efgh : abcd + efgh
+SUCFUMtpp	fum_p + succ_c <==> fum_c + succ_p	abcd + efgh : dcba + efgh
+SUCFUMtpp	fum_p + succ_c <==> fum_c + succ_p	abcd + efgh : abcd + hgfe
+SUCFUMtpp	fum_p + succ_c <==> fum_c + succ_p	abcd + efgh : dcba + hgfe
+SUCOAS	succ_c + atp_c <==> adp_c + succoa_c	abcd + efghijklmn : efghijklmn + abcd
+SUCOAS	succ_c + atp_c <==> adp_c + succoa_c	abcd + efghijklmn : efghijklmn + dcba
+SULabcpp	atp_c --> adp_c	abcdefghij : abcdefghij
+T2DECAI	tdec2eACP_c <==> cdec3eACP_c	abcdefghij : abcdefghij
+TALA	g3p_c + s7p_c <==> e4p_c + f6p_c	abc + defghij : ghij + defabc
+TDPDRE	dtdp4d6dg_c --> dtdp4d6dm_c	abcdefghijklmnop : abcdefghijklmnop
+TDPDRR	dtdp4d6dm_c --> dtdprmn_c	abcdefghijklmnop : abcdefghijklmnop
+TDPGDH	dtdpglu_c --> dtdp4d6dg_c	abcdefghijklmnop : abcdefghijklmnop
+TDSK	atp_c + lipidAds_c --> adp_c + lipidA_c	abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘ : abcdefghij + klmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘ
+THDPS	succoa_c + thdp_c --> sl2a6o_c	abcd + efghijk : efghijkabcd
+THMDt2pp_copy1	thymd_p --> thymd_c	abcdefghij : abcdefghij
+THMDt2pp_copy2	thymd_p <==> thymd_c	abcdefghij : abcdefghij
+THRA	thr__L_c --> acald_c + gly_c	abcd : cd + ab
+THRD	thr__L_c --> 2aobut_c	abcd : abcd
+THRD_L	thr__L_c --> 2obut_c	abcd : abcd
+THRS	phom_c --> thr__L_c	abcd : abcd
+THRabcpp	atp_c + thr__L_p --> adp_c + thr__L_c	abcdefghij + klmn : abcdefghij + klmn
+THRt2pp	thr__L_c --> thr__L_p	abcd : abcd
+THRt2rpp	thr__L_p <==> thr__L_c	abcd : abcd
+THRt4pp	thr__L_p --> thr__L_c	abcd : abcd
+THZPSN	cys__L_c + dxyl5p_c + tyr__L_c + atp_c --> amp_c + 4hba_c + 4mpetz_c + ala__L_c + co2_c	abc + defgh + ijklmnopq + rstuvwxyzA : rstuvwxyzA + klmnopq + defghj + abc + i
+THZPSN	cys__L_c + dxyl5p_c + tyr__L_c + atp_c --> amp_c + 4hba_c + 4mpetz_c + ala__L_c + co2_c	abc + defgh + ijklmnopq + rstuvwxyzA : rstuvwxyzA + klqponm + defghj + abc + i
+TKT1	r5p_c + xu5p__D_c <==> g3p_c + s7p_c	abcde + fghij : hij + fgabcde
+TKT2	e4p_c + xu5p__D_c <==> f6p_c + g3p_c	abcd + efghi : efabcd + ghi
+TMDS	dump_c + mlthf_c --> dtmp_c	abcdefghi + j : abcdefghij
+TMPK	atp_c + thmmp_c --> adp_c + thmpp_c	abcdefghij + klmnopqrstuv : abcdefghij + klmnopqrstuv
+TMPPP	2mahmp_c + 4mpetz_c --> thmmp_c	abcdef + ghijkl : abcdefghijkl
+TPI	dhap_c <==> g3p_c	abc : abc
+TRPAS2	trp__L_c <==> pyr_c + indole_c	abcdefghijk : abc + defghijk
+TRPS1	3ig3p_c + ser__L_c --> g3p_c + trp__L_c	abcdefghijk + lmn : cba + lmndefghijk
+TRPS3	3ig3p_c --> g3p_c + indole_c	abcdefghijk : abc + defghijk
+TRSARr	2h3oppan_c <==> glyc__R_c	abc : abc
+TYRTA	akg_c + tyr__L_c <==> 34hpp_c + glu__L_c	abcde + fghijklmn : fghijklmn + abcde
+TYRTA	akg_c + tyr__L_c <==> 34hpp_c + glu__L_c	abcde + fghijklmn : fghinmlkj + abcde
+U23GAAT	3hmrsACP_c + u3hga_c --> u23ga_c	abcdefghijklmn + opqrstuvwxyzABCDEFGHIJKLMNOPQ : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQ
+UAAGDS	26dap__M_c + uamag_c + atp_c --> adp_c + ugmd_c	abcdefg + hijklmnopqrstuvwxyzABCDEFGHI + JKLMNOPQRS : JKLMNOPQRS + abcdefghijklmnopqrstuvwxyzABCDEFGHI
+UAGAAT	3hmrsACP_c + uacgam_c <==> u3aga_c	abcdefghijklmn + opqrstuvwxyzABCDE : abcdefghijklmnopqrstuvwxyzABCDE
+UAGCVT	pep_c + uacgam_c --> uaccg_c	abc + defghijklmnopqrst : abcdefghijklmnopqrst
+UAGDP	acgam1p_c + utp_c --> uacgam_c	abcdefgh + ijklmnopq : abcdefghijklmnopq
+UAGPT3	uacgam_c + uagmda_c --> uaagmda_c + udp_c	abcdefghijklmnopq + rstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲ : rstuvwxyzABCDEFGHIJabcdefghKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲ + ijklmnopq
+UAMAGS	glu__D_c + uama_c + atp_c --> adp_c + uamag_c	abcde + fghijklmnopqrstuvwxyzAB + CDEFGHIJKL : CDEFGHIJKL + abcdefghijklmnopqrstuvwxyzAB
+UAMAS	ala__L_c + uamr_c + atp_c --> adp_c + uama_c	abc + defghijklmnopqrstuvw + xyzABCDEFG : xyzABCDEFG + abcdefghijklmnopqrstuvw
+UAPGR	uaccg_c --> uamr_c	abcdefghijklmnopqrst : abcdefghijklmnopqrst
+UDCPDP	udcpdp_c --> udcpp_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀā : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀā
+UDCPDPS	frdp_c + ipdp_c + ipdp_c + ipdp_c + ipdp_c + ipdp_c + ipdp_c + ipdp_c + ipdp_c --> udcpdp_c	abcdefghijklmno + pqrst + uvwxy + zABCD + EFGHI + JKLMN + OPQRS + TUVWX + YZÿĀā : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÿĀā
+UGMDDS	alaala_c + ugmd_c + atp_c --> adp_c + ugmda_c	abcdef + ghijklmnopqrstuvwxyzABCDEFGHIJKLMNO + PQRSTUVWXY : PQRSTUVWXY + abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNO
+UHGADA	u3aga_c --> ac_c + u3hga_c	abcdefghijklmnopqrstuvwxyzABCDE : op + abcdefghijklmnqrstuvwxyzABCDE
+UMPK	atp_c + ump_c <==> adp_c + udp_c	abcdefghij + klmnopqrs : abcdefghij + klmnopqrs
+UPP3MT	amet_c + amet_c + uppg3_c --> ahcys_c + ahcys_c + dscl_c	abcdefghijklmno + pqrstuvwxyzABCD + EFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐ : abcdfghijklmno + pqrsuvwxyzABCD + EFGHIJKLMNOPQRSTUVWXYZÿĀāĂăĄąĆćĈĉĊċČčĎďĐet
+UPP3S	hmbil_c --> uppg3_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN
+UPPDC1	uppg3_c --> co2_c + co2_c + co2_c + co2_c + cpppg3_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN : j + t + D + N + abcdefghiklmnopqrsuvwxyzABCEFGHIJKLM
+URAt2pp_copy1	ura_p --> ura_c	abcd : abcd
+URAt2pp_copy2	ura_p <==> ura_c	abcd : abcd
+UREAtex	urea_e <==> urea_p	a : a
+UREAtpp	urea_p <==> urea_c	a : a
+URIDK2r	atp_c + dump_c <==> adp_c + dudp_c	abcdefghij + klmnopqrs : abcdefghij + klmnopqrs
+URIt2pp_copy1	uri_p --> uri_c	abcdefghi : abcdefghi
+URIt2pp_copy2	uri_p <==> uri_c	abcdefghi : abcdefghi
+USHD	u23ga_c --> lipidX_c + ump_c	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQ : abcdefghijklmnopqrstuvwxyzABCDEFGH + IJKLMNOPQ
+VALTA	akg_c + val__L_c <==> 3mob_c + glu__L_c	abcde + fghij : fghij + abcde
+VALabcpp	atp_c + val__L_p --> adp_c + val__L_c	abcdefghij + klmno : abcdefghij + klmno
+VALt2rpp	val__L_p <==> val__L_c	abcde : abcde
+VALtex	val__L_e <==> val__L_p	abcde : abcde
+VPAMTr	3mob_c + ala__L_c --> pyr_c + val__L_c	abcde + fgh : fgh + abcde
+XANt2pp	xan_p --> xan_c	abcde : abcde
+XANtpp	xan_p <==> xan_c	abcde : abcde
+ZN2abcpp	atp_c --> adp_c	abcdefghij : abcdefghij
+ZNabcpp	atp_c --> adp_c	abcdefghij : abcdefghij

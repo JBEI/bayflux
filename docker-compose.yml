@@ -1,0 +1,14 @@
+version: '3.5'
+services:
+    jupyter:
+        image: tbackman/bayflux:1
+        platform: linux/amd64
+        shm_size: '2gb'
+        volumes:
+            - .:/bayflux
+        ports:
+            - "8895:8895"
+        tty: true
+        stdin_open: true
+        working_dir: /bayflux
+        command: ["/opt/conda/bin/jupyter", "lab", "--ip='*'", "--port=8895", "--allow-root", "--no-browser"]

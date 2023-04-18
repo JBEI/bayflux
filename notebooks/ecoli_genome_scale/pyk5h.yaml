@@ -1,0 +1,28 @@
+###### sampler settings
+seed: 31
+outputBaseName: "outputdata/toyapyk5h"
+thinning: 1200
+centeringSamplesPerTask: 100000
+bayesianSamplesPerTask: 100000
+
+###### experimental data
+averageError: 0.0076875
+
+###### Limit search space by setting a max allowed flux
+maxFlux: 58.5
+
+# Input files
+# File 1: Metabolic model (.sbml format)
+modelFile: "data/ecoli_genome_scale.xml"
+
+# File 2: Extracellular exchange and flux bounds (.csv format)
+fluxBoundsFile: "data/ecoli_genome_scaleFluxBounds_pyk5h.csv"
+
+# File 3: Atom transitions for each reaction (.txt format)
+transitionsFile: "data/ecoli_genome_scaleTransitions.txt"
+
+# File 4: Mass distribution experimental data (.tab format)
+mdvFile: "data/GCMSpyk5h.txt"
+
+# File 5: substrate labeling dict
+substrateLabelingDict: "substrateLabelingDict.py"

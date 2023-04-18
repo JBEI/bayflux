@@ -1,0 +1,5 @@
+a_b	A --> B	abc : abc
+b_ec	B --> E + C	abc : a + bc
+bc_de	B + C --> E + D + E	abc + de : a + bcd + e
+d_f	D --> F	abc : abc
+b_d	B <==> D	abc : abc

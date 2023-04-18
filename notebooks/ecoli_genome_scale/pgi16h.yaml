@@ -1,0 +1,28 @@
+###### sampler settings
+seed: 36
+outputBaseName: "outputdata/toyapgi16h"
+thinning: 1200
+centeringSamplesPerTask: 100000
+bayesianSamplesPerTask: 100000
+
+###### experimental data
+averageError: 0.006541666666666668
+
+###### Limit search space by setting a max allowed flux
+maxFlux: 58.5
+
+# Input files
+# File 1: Metabolic model (.sbml format)
+modelFile: "data/ecoli_genome_scale.xml"
+
+# File 2: Extracellular exchange and flux bounds (.csv format)
+fluxBoundsFile: "data/ecoli_genome_scaleFluxBounds_pgi16h.csv"
+
+# File 3: Atom transitions for each reaction (.txt format)
+transitionsFile: "data/ecoli_genome_scaleTransitions.txt"
+
+# File 4: Mass distribution experimental data (.tab format)
+mdvFile: "data/GCMSpgi16h.txt"
+
+# File 5: substrate labeling dict
+substrateLabelingDict: "substrateLabelingDict.py"
