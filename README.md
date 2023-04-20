@@ -156,8 +156,8 @@ See license.txt
 
 ## Citing BayFlux
 
-Please cite our bioRxiv preprint
 BayFlux: A Bayesian method to quantify metabolic Fluxes and their uncertainty at the genome scale
-doi: https://doi.org/10.1101/2023.04.19.537435
+
+https://doi.org/10.1101/2023.04.19.537435
 
 
