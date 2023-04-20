@@ -16,9 +16,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+sys.path.insert(0, os.path.abspath('../'))
 
 
 # -- General configuration ------------------------------------------------
@@ -51,8 +51,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'bayflux'
-copyright = u'2017, Tyler W. H. Backman, Hector Garcia Martin'
-author = u'Tyler W. H. Backman, Hector Garcia Martin'
+copyright = u'2023 The Regents of the University of California'
+author = u'Tyler W. H. Backman'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -132,7 +132,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'bayflux.tex', u'bayflux Documentation',
-     u'Tyler W. H. Backman, Hector Garcia Martin', 'manual'),
+     u'Tyler W. H. Backman', 'manual'),
 ]
 
 

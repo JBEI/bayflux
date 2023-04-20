@@ -10,6 +10,9 @@ Welcome to bayflux's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+.. automodule:: bayflux
+   :members:
+
 .. automodule:: bayflux.core.reactionNetwork
    :members:
 
