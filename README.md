@@ -153,3 +153,11 @@ works, and perform publicly and display publicly, and to permit others to do so.
 ## License Agreement
 
 See license.txt
+
+## Citing BayFlux
+
+BayFlux: A Bayesian method to quantify metabolic Fluxes and their uncertainty at the genome scale
+
+https://doi.org/10.1101/2023.04.19.537435
+
+
