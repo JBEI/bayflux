@@ -1,9 +1,7 @@
 alabaster==0.7.13
 Babel==2.12.1
--e git+https://github.com/JBEI/bayflux.git@23be3ef94a13565e93c3d47f86eff07ecd812f6f#egg=bayflux
 certifi==2022.12.7
 charset-normalizer==3.1.0
-cobra @ git+https://github.com/TylerBackman/cobrapy.git@56fad5f037e0ac1cda59a2e9ec298d61b2916cd1
 depinfo==2.2.0
 docutils==0.18.1
 future==0.18.3
