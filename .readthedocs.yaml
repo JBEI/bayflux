@@ -28,4 +28,4 @@ python:
    install:
    - requirements: docs/readthedocs.requirements.txt
    - method: pip
-     path: package
+     path: .
