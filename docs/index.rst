@@ -10,15 +10,6 @@ Welcome to bayflux's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: bayflux
-   :members:
-
-.. automodule:: bayflux.core.reactionNetwork
-   :members:
-
-.. automodule:: bayflux.core.emus
-   :members:
-
 Indices and tables
 ==================
 
