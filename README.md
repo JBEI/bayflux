@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/bayflux/badge/?version=latest)](https://bayflux.readthedocs.io/en/latest/py-modindex.html)
+
 # BayFlux
 
 This is an open source software library for performing Bayesian genome scale 
@@ -41,6 +43,10 @@ to start using the demo notebooks.
 ```
 docker compose up
 ```
+
+## Documentation
+You can access the Python documentation for all BayFlux functions at 
+https://bayflux.readthedocs.io/en/latest/py-modindex.html
 
 ## Suggested demo notebooks
 The notebooks folder contains four demo notebooks for testing, and learning about
