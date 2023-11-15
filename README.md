@@ -162,8 +162,20 @@ See license.txt
 
 ## Citing BayFlux
 
-BayFlux: A Bayesian method to quantify metabolic Fluxes and their uncertainty at the genome scale
+DOI: https://doi.org/10.1371/journal.pcbi.1011111
 
-https://doi.org/10.1101/2023.04.19.537435
+BibTex citation:
+
+@article{backman2023bayflux,
+  title={BayFlux: A Bayesian method to quantify metabolic Fluxes and their uncertainty at the genome scale},
+  author={Backman, Tyler WH and Schenk, Christina and Radivojevic, Tijana and Ando, David and Singh, Jahnavi and Czajka, Jeffrey J and Costello, Zak and Keasling, Jay D and Tang, Yinjie and Akhmatskaya, Elena and others},
+  journal={PLOS Computational Biology},
+  volume={19},
+  number={11},
+  pages={e1011111},
+  year={2023},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
 
 
