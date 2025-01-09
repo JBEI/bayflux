@@ -1,0 +1,54 @@
+2DDA7Pbm	2dda7p_c --> 2dda7pbm_c	abcdefg : abcdefg
+ACACCT	accoa_c --> ac_e	ab : ab
+ACONT	cit_c --> icit_c	abcdef : abcdef
+AKGDH	akg_c --> succoa_c + co2_c	abcde : bcde + a
+AcCoabm	accoa_c --> accoabm_c	ab : ab
+CS	oaa_c + accoa_c --> cit_c	abcd + ef : dcbfea
+DDPA	e4p_c + pep_c --> 2dda7p_c	abcd + efg : efgabcd
+DHAPT	dha_c + pep_c --> dhap_c + pyr_c	abc + def : abc + def
+EDA	2ddg6p_c --> pyr_c + g3p_c	abcdef : abc + def
+EDD	6pgc_c --> 2ddg6p_c	abcdef : abcdef
+ENO	2pg_c <==> pep_c	abc : abc
+F6PA	f6p_c --> g3p_c + dha_c	abcdef : def + cba
+F6Pbm	f6p_c --> f6pbm_c	abcdef : abcdef
+FBA	fdp_c <==> g3p_c + dhap_c	abcdef : def + cba
+FUM	fum_c --> mal_L_c	abcd : abcd
+FUM	fum_c --> mal_L_c	abcd : dcba
+G6PDH2r	g6p_c --> 6pgl_c	abcdef : abcdef
+G6Pbm	g6p_c --> g6pbm_c	abcdef : abcdef
+GAPD	g3p_c --> 13dpg_c	abc : abc
+GLCpts	glc_D_e + pep_c --> g6p_c + pyr_c	abcdef + ghi : abcdef + ghi
+GLUDy	glu_L_c <==> akg_c	abcde : abcde
+GLUbm	glu_L_c --> glubm_c	abcde : abcde
+GND	6pgc_c --> co2_c + ru5p_D_c	abcdef : a + bcdef
+ICDHyr	icit_c --> akg_c + co2_c	abcdef : abcde + f
+ICL	icit_c --> succ_c + glx_c	abcdef : fcde + ab
+ICL	icit_c --> succ_c + glx_c	abcdef : edcf + ab
+MALS	glx_c + accoa_c --> mal_L_c	ab + cd : abcd
+MDH	mal_L_c <==> oaa_c	abcd : abcd
+ME1	mal_L_c --> pyr_c + co2_c	abcd : abc + d
+OAAbm	oaa_c --> oaabm_c	abcd : abcd
+PDH	pyr_c --> co2_c + accoa_c	abc : a + bc
+PEPbm	pep_c --> pepbm_c	abc : abc
+PFK	f6p_c --> fdp_c	abcdef : abcdef
+PGI	g6p_c <==> f6p_c	abcdef : abcdef
+PGK	3pg_c <==> 13dpg_c	abc : abc
+PGL	6pgl_c --> 6pgc_c	abcdef : abcdef
+PGM	2pg_c <==> 3pg_c	abc : abc
+PPC	pep_c + co2_c --> oaa_c	abc + d : abcd
+PPCK	oaa_c --> pep_c + co2_c	abcd : abc + d
+PYK	pep_c --> pyr_c	abc : abc
+PYRbm	pyr_c --> pyrbm_c	abc : abc
+R5Pbm	r5p_c --> r5pbm_c	abcde : abcde
+RPE	ru5p_D_c <==> xu5pD_c	abcde : abcde
+RPI	r5p_c <==> ru5p_D_c	abcde : abcde
+SUCD1i	succ_c --> fum_c	abcd : abcd
+SUCD1i	succ_c --> fum_c	abcd : dcba
+SUCOAS	succ_c <==> succoa_c	abcd : abcd
+SUCOAS	succ_c <==> succoa_c	abcd : dcba
+TA1	f6p_c <==> TAC3_c + g3p_c	abcdef : abc + def
+TA2	s7p_c <==> TAC3_c + e4p_c	abcdefg : abc + defg
+TK1	xu5pD_c <==> TKC2_c + g3p_c	abcde : ab + cde
+TK2	f6p_c <==> TKC2_c + e4p_c	abcdef : ab + cdef
+TK3	s7p_c <==> TKC2_c + r5p_c	abcdefg : ab + cdefg
+TPI	dhap_c <==> g3p_c	abc : abc
